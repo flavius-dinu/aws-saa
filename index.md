@@ -1,4 +1,6 @@
 ## AWS Solutions Architect Associate
 
-| [S3](./s3.md) |
-| ----------- |
+
+| Components |  FAQ URL |
+| ----------- | ----------- |
+| [S3](./s3.md) | https://aws.amazon.com/s3/faqs/ |
