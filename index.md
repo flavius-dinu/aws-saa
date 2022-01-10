@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Introduction"
-permalink: /
+permalink: /index/
 ---
-
 ## AWS Solutions Architect Associate
